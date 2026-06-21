@@ -1,17 +1,17 @@
 module github.com/go-composites/set
 
-go 1.21.6
+go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260620184536-bfe15364f583
-	github.com/go-composites/error v0.0.0-20260620184955-e79ecfc9add5
-	github.com/go-composites/result v0.0.0-20260620185001-d3405411faf4
+	github.com/go-composites/array v0.0.0-20260621062820-1aa11b71d5d6
+	github.com/go-composites/error v0.0.0-20260621061850-8f949885a586
+	github.com/go-composites/result v0.0.0-20260621061851-32adc2fb3ac2
 	github.com/onsi/ginkgo/v2 v2.19.0
 	github.com/onsi/gomega v1.33.1
 )
 
 require (
-	github.com/go-composites/null v0.0.0-20260620115053-4c4729da2abd // indirect
+	github.com/go-composites/null v0.0.0-20260621061849-c8074799d5aa // indirect
 	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
